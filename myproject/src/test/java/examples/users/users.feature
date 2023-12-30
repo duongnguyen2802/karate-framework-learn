@@ -55,4 +55,5 @@ Feature: sample karate test script
 #    * print response
     * print '-------------------------'
     * print 'website is: ' + response.website
+    * print 'test'
 
